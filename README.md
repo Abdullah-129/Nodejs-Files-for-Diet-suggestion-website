@@ -1,13 +1,3 @@
-diet-suggestion-website-backend/
-  ├── package.json
-  ├── server.js
-  ├── config/
-  │    └── dbConfig.js
-  ├── models/
-  │    └── user.js
-  ├── routes/
-  │    ├── authRoutes.js
-  │    └── dietRoutes.js
-  └── controllers/
-       ├── authController.js
-       └── dietController.js
+## Backend Files
+
+These files are the backbone of [Diet Suggestion Website](http://www.example.com). They play a crucial role in the functionality of the project.
